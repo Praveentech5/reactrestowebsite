@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactrestowebsite/static/css/main.17655c3c.css",
+    "main.js": "/reactrestowebsite/static/js/main.b87caa47.js",
+    "index.html": "/reactrestowebsite/index.html",
+    "main.17655c3c.css.map": "/reactrestowebsite/static/css/main.17655c3c.css.map",
+    "main.b87caa47.js.map": "/reactrestowebsite/static/js/main.b87caa47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.b87caa47.js"
+  ]
+}
